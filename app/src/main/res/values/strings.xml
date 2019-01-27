@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LanguageTranslator</string>
+    <string name="record">Record</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="submit">SUBMIT</string>
+</resources>
