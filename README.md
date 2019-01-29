@@ -7,4 +7,4 @@ Text input can be given in 2 ways:
  1. Keyboard Input.
  2. Voice Input.
  
- Text language translation is converted through Amazon Translate.
+ Text language translation to be done using Amazon Translate.
